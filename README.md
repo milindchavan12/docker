@@ -5,6 +5,10 @@ Containers are an abstraction at the app layer that packages code and dependenci
 
 Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space. Containers take up less space than VMs (container images are typically tens of MBs in size), can handle more applications and require fewer VMs and Operating systems.
 
+### Open Container Initiative
+Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec).
+![img text](./assets/oci.png)
+
 ### Container Lifecycle:
 When we create container with `docker run`, image goes in running state. From *running* state we can *start* it, *stop* it and again *start* it. And eventually we can remove the image by `docker rmi`
 
