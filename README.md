@@ -7,6 +7,10 @@ Multiple containers can run on the same machine and share the OS kernel with oth
 
 ![img text](https://github.com/milindchavan12/docker/blob/master/assets/dockerengine.png)
 
+### Docker on Windows
+
+![img text](https://github.com/milindchavan12/docker/blob/master/assets/dockeronwindows.png)
+
 ### Open Container Initiative
 Docker and other leaders in the container industry, the OCI currently contains two specifications: the Runtime Specification (runtime-spec) and the Image Specification (image-spec).
 ![img text](./assets/oci.png)
