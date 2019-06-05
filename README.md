@@ -25,7 +25,7 @@ When we create container with `docker run`, image goes in running state. From *r
 - `docker pull <image>` : To pull the docker image from Docker hub or ACR locally.
 - `docker images` : To list the image pull locally on docker host.
 - `docker rmi` : Removes the local image from docker host.
-- `docker ps` : Lists all running containers.
+- `docker ps` : Lists all running containers. ( -a option shows all containers)
 - `docker stop` : Stops the running container.
 - `docker rm` : removes/delete the **stopped** containers.
 
