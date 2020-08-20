@@ -5,7 +5,7 @@ Containers are an abstraction at the app layer that packages code and dependenci
 
 > **Containers** allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all as one package.
 
-### Kernal Internals
+### Docker Engine
 Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space. Containers take up less space than VMs (container images are typically tens of MBs in size), can handle more applications and require fewer VMs and Operating systems.
 
 ![img text](https://github.com/milindchavan12/docker/blob/master/assets/dockerengine.png)
