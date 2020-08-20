@@ -11,6 +11,7 @@ Multiple containers can run on the same machine and share the OS kernel with oth
 ![img text](https://github.com/milindchavan12/docker/blob/master/assets/dockerengine.png)
 
 ### Docker on Windows
+There are two different types of windows container native windows containers and hyper V containers.
 
 ![img text](https://github.com/milindchavan12/docker/blob/master/assets/dockeronwindows.png)
 
