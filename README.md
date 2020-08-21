@@ -26,8 +26,6 @@ When we create container with `docker run`, image goes in running state. From *r
 
 ---
 
-### Image
-
 ### Docker Commands:
 - `docker run <image>`  : To start new container with at least image to work with.
 - `docker pull <image>` : To pull the docker image from Docker hub or ACR locally.
