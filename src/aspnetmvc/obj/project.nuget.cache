@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1cwat6Mlg0mIdgCcU8ChGan1gFRj2JL2Vtmr8ZOqiZ5wZNe2v5VBTDsVA6nsH2Ig1eyVcMEL0H14Xric/hAotg==",
+  "dgSpecHash": "FeVm1NDTmP51XQkIEkQOVFiPIX69ai2kt37kJB/2R/rqMo6WU9uUNM4INsWz5f8qB0GJ7cOS0Io0NQ7Zxhyx7g==",
   "success": true,
-  "projectFilePath": "/app/aspnetmvc.csproj",
+  "projectFilePath": "/Users/Milind/Documents/Sources/docker/src/aspnetmvc/aspnetmvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
