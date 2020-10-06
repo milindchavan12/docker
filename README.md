@@ -42,3 +42,4 @@ A swarm is a group of machines that are running Docker and joined into a cluster
 Up until now, you have been using Docker in a single-host mode on your local machine. But Docker also can be switched into **swarm mode**, and that’s what enables the use of swarms. Enabling swarm mode instantly makes the current machine a swarm manager. From then on, Docker runs the commands you execute on the swarm you’re managing, rather than just on the current machine.
 
 ![img text](https://github.com/milindchavan12/docker/blob/master/assets/swarmmode.png)
+
